@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henrytsui000&label=Profile%20views&color=0e75b6&style=flat" alt="henrytsui000" /> </p>
 
-- 🔭 I’m currently working on [POSE](https://github.com/henrytsui000/POSE) and [Stock predict](https://github.com/henrytsui000/DataScienceProject)
+- 🔭 I’m currently working on [YOLOv9-MIT]([https://github.com/henrytsui000/POSE](https://github.com/WongKinYiu/yolov9mit))
 
 - 📫 How to reach me **henrytsui000@gmail.com**
 
