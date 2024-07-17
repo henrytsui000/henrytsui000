@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henrytsui000&label=Profile%20views&color=0e75b6&style=flat" alt="henrytsui000" /> </p>
 
-- 🔭 I’m currently working on [YOLOv9-MIT]([https://github.com/henrytsui000/POSE](https://github.com/WongKinYiu/yolov9mit))
+- 🔭 I’m currently working on [YOLO]([https://github.com/henrytsui000/POSE](https://github.com/WongKinYiu/YOLO))
 
 - 📫 How to reach me **henrytsui000@gmail.com**
 
