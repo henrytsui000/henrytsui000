@@ -1,24 +1,19 @@
-<h1 align="center">Hi 👋, I'm Henry</h1>
-<h3 align="center">A student studying in the Department of ECE at NYCU and interested in deep learning</h3>
+# Hao-Tang (Henry) Tsui
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=henrytsui000&label=Profile%20views&color=0e75b6&style=flat" alt="henrytsui000" /> </p>
+**MS in Computer Vision @ Carnegie Mellon University**
 
-- 🔭 I’m currently working on [YOLO]([https://github.com/henrytsui000/POSE](https://github.com/WongKinYiu/YOLO))
+I work on 3D/4D reconstruction and part-aware 3D generation with Prof. [Kris Kitani](https://kriskitani.github.io/), and on vision–language benchmarking with Prof. [Deva Ramanan](https://www.cs.cmu.edu/~deva/). Previously a research assistant at Academia Sinica (YOLO-Lab) with Prof. [Mark Liao](https://scholar.google.com/citations?user=_IXt8boAAAAJ), where I re-released YOLO under the MIT license. B.S. in Electrical Engineering from NYCU.
 
-- 📫 How to reach me **henrytsui000@gmail.com**
+### Selected work
 
-- 📄 Know about my experiences [https://henrytsui000.github.io/myblog/](https://henrytsui000.github.io/myblog/)
+| | |
+|---|---|
+| [**Point2Part**](https://henrytsui000.github.io/Point2Part) | Unified 3D partitioning from point prompts · [arXiv](https://arxiv.org/abs/2609.38180) 2026 |
+| [**SNAP3D**](https://lucytuan.github.io/SNAP3D/) | Physically grounded 3D parts for assembly from a single image · [arXiv](https://arxiv.org/abs/2609.13146) 2026 |
+| [**Σ StaDy4D**](https://sigma4reconstruct.github.io/) | Complete 4D static-dynamic reconstruction · CVPRW 2026, **Best Paper** |
+| [**YOLO-RD**](https://henrytsui000.github.io/YOLO/RD) | Explicit knowledge for YOLO via a Retriever-Dictionary · ICLR 2025 |
+| [**YOLO-MIT**](https://github.com/MultimediaTechLab/YOLO) | YOLOv7 / YOLOv9 re-released under the MIT license |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/henrytsui000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="henrytsui000" height="30" width="40" /></a>
-<a href="https://fb.com/henrytsui000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="henrytsui000" height="30" width="40" /></a>
-<a href="https://instagram.com/henry.0408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="henry.0408" height="30" width="40" /></a>
-</p>
+### Links
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henrytsui000&show_icons=true&locale=en&layout=compact" alt="henrytsui000" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henrytsui000&show_icons=true&locale=en" alt="henrytsui000" /></p>
+[henrytsui000.github.io](https://henrytsui000.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=5qcVy1oAAAAJ) · [LinkedIn](https://www.linkedin.com/in/hao-tang-tsui) · henrytsu@andrew.cmu.edu
