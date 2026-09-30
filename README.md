@@ -16,4 +16,4 @@ I work on 3D/4D reconstruction and part-aware 3D generation with Prof. [Kris Kit
 
 ### Links
 
-[henrytsui000.github.io](https://henrytsui000.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=5qcVy1oAAAAJ) · [LinkedIn](https://www.linkedin.com/in/hao-tang-tsui) · henrytsu@andrew.cmu.edu
+[henrytsui000.github.io](https://henrytsui000.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=5qcVy1oAAAAJ) · [LinkedIn](https://www.linkedin.com/in/hao-tang-tsui) · henrytsu [at] andrew.cmu.edu
